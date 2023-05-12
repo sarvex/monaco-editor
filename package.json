@@ -64,7 +64,7 @@
 		"terser": "^5.14.2",
 		"ts-node": "^10.6.0",
 		"typescript": "^5.0.2",
-		"vite": "^3.1.8",
+		"vite": "^4.3.5",
 		"vscode-css-languageservice": "6.2.5",
 		"vscode-html-languageservice": "4.2.4",
 		"vscode-json-languageservice": "4.2.1",
