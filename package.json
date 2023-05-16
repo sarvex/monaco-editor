@@ -69,7 +69,7 @@
 		"vscode-html-languageservice": "4.2.4",
 		"vscode-json-languageservice": "4.2.1",
 		"vscode-languageserver-textdocument": "^1.0.8",
-		"vscode-languageserver-types": "3.16.0",
+		"vscode-languageserver-types": "3.17.3",
 		"vscode-uri": "3.0.3",
 		"webpack": "^5.82.1",
 		"yaserver": "^0.4.0"
