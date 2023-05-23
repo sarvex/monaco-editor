@@ -40,7 +40,7 @@
 		"@types/mocha": "^10.0.1",
 		"@types/shelljs": "^0.8.11",
 		"@typescript/vfs": "^1.4.0",
-		"chai": "^4.3.6",
+		"chai": "^4.3.7",
 		"clean-css": "^5.2.4",
 		"css-loader": "^6.7.1",
 		"esbuild": "^0.14.49",
