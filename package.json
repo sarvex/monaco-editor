@@ -43,7 +43,7 @@
 		"chai": "^4.3.7",
 		"clean-css": "^5.2.4",
 		"css-loader": "^6.7.1",
-		"esbuild": "^0.14.49",
+		"esbuild": "^0.18.4",
 		"esbuild-plugin-alias": "^0.2.1",
 		"file-loader": "^6.2.0",
 		"glob": "^10.2.6",
